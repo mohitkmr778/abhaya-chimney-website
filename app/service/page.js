@@ -33,66 +33,6 @@ const services = [
         ],
         img: "/slider/noida.jpg",
     },
-    {
-        title: "Washing Machine Solutions",
-        subtitle: "Trusted Technicians",
-        description: [
-            "Get your washing machine running smoothly with our expert repair solutions.",
-            "We handle all types and models, ensuring minimal downtime for your home.",
-        ],
-        points: [
-            "All Brands Supported",
-            "Doorstep Service",
-            "Affordable Pricing",
-            "Fast Turnaround",
-        ],
-        img: "/slider/noida.jpg",
-    },
-    {
-        title: "Kitchen Chimney Cleaning",
-        subtitle: "Hygiene & Safety",
-        description: [
-            "Professional chimney cleaning and maintenance for a safer kitchen environment.",
-            "Our team ensures thorough cleaning and proper functioning of your appliance.",
-        ],
-        points: [
-            "Deep Cleaning",
-            "Filter Replacement",
-            "Odor Removal",
-            "Annual Maintenance",
-        ],
-        img: "/slider/noida.jpg",
-    },
-    {
-        title: "Microwave Oven Repair",
-        subtitle: "Quick & Reliable",
-        description: [
-            "We fix all microwave oven issues, from heating problems to electrical faults.",
-            "Enjoy hassle-free service and guaranteed workmanship.",
-        ],
-        points: [
-            "All Models Covered",
-            "Onsite Repairs",
-            "Transparent Charges",
-            "Skilled Technicians",
-        ],
-        img: "/slider/noida.jpg",
-    },
-    {
-        title: "LED/LCD/TV Service",
-        subtitle: "Entertainment Uninterrupted",
-        description: [
-            "Expert TV repair and installation for all major brands and models.",
-            "We ensure crystal-clear viewing and long-lasting performance.",
-        ],
-        points: [
-            "Screen & Audio Issues",
-            "Wall Mounting",
-            "Remote & Accessories",
-            "Fast Response Time",
-        ],
-        img: "/slider/noida.jpg",
-    },
 ];
 
 export default function ServicePage() {

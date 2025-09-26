@@ -18,7 +18,8 @@ export default function Footer() {
                         className="mx-auto mb-2 h-[48px] w-auto"
                     />
                     <p className="text-xl font-medium mb-4 text-[#ffe082]">
-                        Gen1 Service - We will be loyal to our services
+                        Abhaya Chimney Services - We will be loyal to our
+                        services
                     </p>
                     <div className="flex justify-center gap-4 mb-4">
                         <a
@@ -167,7 +168,7 @@ export default function Footer() {
                             href="#"
                             className="text-[#ffb300] font-bold underline"
                         >
-                            Abhaya
+                            Abhaya Chimney Services
                         </a>{" "}
                         All rights reserved
                     </span>

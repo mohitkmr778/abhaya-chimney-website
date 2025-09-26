@@ -5,7 +5,7 @@ export default function AboutSection() {
         <section className="bg-[#18344a] py-10">
             <div className="max-w-[900px] mx-auto px-4 text-center">
                 <h2 className="text-3xl font-bold mb-4 text-[#ffb300] drop-shadow">
-                    About Gen1service
+                    About Abhaya Chimney
                 </h2>
                 <p className="text-lg text-[#f5f7fa] mb-2">
                     Gen1service is your trusted partner for appliance repair in

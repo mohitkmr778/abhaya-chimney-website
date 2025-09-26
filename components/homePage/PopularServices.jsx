@@ -2,42 +2,42 @@ import React from "react";
 
 const services = [
     {
-        title: "Air Conditioner Repair Service In Noida",
+        title: "Chimney Repair Service",
         description:
             "Get reliable Air Conditioner repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
     },
     {
-        title: "Refrigerator Repair Service In Noida",
+        title: "RO Water Purifier Repair Service",
         description:
             "Get reliable refrigerator repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
     },
     {
-        title: "LED/LCD/TV Repair Service In Noida",
+        title: "Hob Gas Repair Service",
         description:
             "Get reliable LED/LCD/TV repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
     },
     {
-        title: "Washing Machine Repair Service In Noida",
+        title: "Mircowave Repair Service",
         description:
             "Get reliable Washing Machine repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
     },
     {
-        title: "Microwave Oven Repair Service In Noida",
+        title: "Oven Repair Service",
         description:
             "Get reliable Microwave Oven repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
     },
     {
-        title: "Kitchen-Chimney Repair Service In Noida",
+        title: "Dishwasher Repair Service",
         description:
             "Get reliable Kitchen-Chimney repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
