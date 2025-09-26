@@ -19,10 +19,10 @@ export default function PrivacyPolicy() {
                     Terms and Conditions
                 </h2>
                 <p className="mb-4 text-sm text-gray-700">
-                    These terms and conditions ("Terms") govern the use of
-                    services made available on or through https://mannubhai.com
-                    and/or the Urban Company mobile app (collectively, the
-                    "Platform"...)
+                    These terms and conditions (&quot;Terms&quot;) govern the
+                    use of services made available on or through
+                    https://mannubhai.com and/or the Urban Company mobile app
+                    (collectively, the &quot;Platform&quot;...)
                 </p>
                 <ol className="list-decimal pl-4 space-y-4">
                     <li>
@@ -35,7 +35,7 @@ export default function PrivacyPolicy() {
                             </li>
                             <li>
                                 The services rendered by Service Professionals
-                                are referred to as "Pro Services"...
+                                are referred to as &quot;Pro Services&quot;...
                             </li>
                             <li>
                                 The Platform is for your personal and
