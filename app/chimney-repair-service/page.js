@@ -1,7 +1,17 @@
 import PageBanner from "@/components/homePage/PageBanner";
 import React from "react";
+import ServiceImageSlider from "@/components/homePage/ServiceImageSlider";
 
 export default function ChimneyRepairServicePage() {
+    const sliderImages = [
+        "/slider/noida.jpg",
+        "/slider/noida.jpg",
+        "/slider/noida.jpg",
+        "/slider/noida.jpg",
+        "/slider/noida.jpg",
+        "/slider/noida.jpg",
+        "/slider/noida.jpg",
+    ];
     return (
         <>
             <PageBanner
@@ -11,6 +21,7 @@ export default function ChimneyRepairServicePage() {
             />
             <main className="bg-[#f6fbfd] py-10">
                 <div className="max-w-[1200px] mx-auto px-4">
+                   
                     {/* Service intro section */}
                     <h2 className="text-2xl font-bold mb-4 text-[#0d5c6b]">
                         Chimney Repair Service
@@ -135,6 +146,11 @@ export default function ChimneyRepairServicePage() {
                             </ul>
                         </div>
                     </section>
+                         <ServiceImageSlider 
+                             images={sliderImages} 
+                             heading="Our Chimney Repair Gallery" 
+                             subheading="See our expert technicians in action, delivering quality chimney repairs across Noida." 
+                         />
                 </div>
             </main>
         </>
