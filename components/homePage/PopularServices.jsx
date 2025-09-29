@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 const services = [
     {
@@ -7,6 +8,7 @@ const services = [
             "Get reliable Air Conditioner repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
+        link: "/chimney-repair-service",
     },
     {
         title: "RO Water Purifier Repair Service",
@@ -14,6 +16,7 @@ const services = [
             "Get reliable refrigerator repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
+        link: "/ro-water-purifier-repair-service",
     },
     {
         title: "Hob Gas Repair Service",
@@ -21,6 +24,7 @@ const services = [
             "Get reliable LED/LCD/TV repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
+        link: "/hob-gas-repair-service",
     },
     {
         title: "Mircowave Repair Service",
@@ -28,6 +32,7 @@ const services = [
             "Get reliable Washing Machine repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
+        link: "/mircowave-repair-service",
     },
     {
         title: "Oven Repair Service",
@@ -35,6 +40,7 @@ const services = [
             "Get reliable Microwave Oven repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
+        link: "/oven-repair-service",
     },
     {
         title: "Dishwasher Repair Service",
@@ -42,6 +48,7 @@ const services = [
             "Get reliable Kitchen-Chimney repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
         price: "₹ 249",
         img: "/slider/noida.jpg",
+        link: "/dishwasher-repair-service",
     },
 ];
 
@@ -72,9 +79,11 @@ export default function PopularServices() {
                             <span className="font-semibold text-[#ffb300]">
                                 {service.price}
                             </span>
-                            <button className="bg-gradient-to-r from-[#ffb300] to-[#ff6f00] text-white px-4 py-1 rounded-full font-semibold border-none shadow hover:from-[#ff6f00] hover:to-[#ffb300] transition-all">
-                                Read More
-                            </button>
+                            <Link href={service.link} passHref>
+                                <button className="bg-gradient-to-r from-[#e31e24] to-[#b71c1c] text-white px-4 py-1 rounded-full font-semibold border-none shadow hover:from-[#b71c1c] hover:to-[#e31e24] transition-all">
+                                    Read More
+                                </button>
+                            </Link>
                         </div>
                     </div>
                 ))}

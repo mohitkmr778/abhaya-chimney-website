@@ -8,11 +8,13 @@ export default function MobileHeader() {
         <header className="bg-[#23589c] fixed top-0 left-0 w-full z-50 shadow-md md:hidden">
             <div className="flex items-center justify-between px-4 py-3">
                 <div className="flex items-center">
-                    <img
-                        src="/abhaya-logo.png"
-                        alt="Gen1service Logo"
-                        className="h-[36px] w-auto"
-                    />
+                    <Link href="/">
+                        <img
+                            src="/abhaya-logo.png"
+                            alt="Gen1service Logo"
+                            className="h-[36px] w-auto"
+                        />
+                    </Link>
                 </div>
                 <button
                     className="text-white focus:outline-none"

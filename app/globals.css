@@ -4,7 +4,8 @@
 @import "components";
 @import "utilities"; */
 
-html,
+html {
+}
 body {
     font-family: var(
         --font-poppins,
@@ -14,8 +15,8 @@ body {
         Roboto,
         "Helvetica Neue"
     );
-    background: #0d2235;
-    color: #f5f7fa;
+    background: #e31e24;
+    color: #fff;
 }
 
 h1,
@@ -25,6 +26,7 @@ h4,
 h5,
 h6 {
     font-weight: 700;
+    color: #fff;
 }
 
 a {
@@ -33,7 +35,7 @@ a {
 
 button,
 .btn {
-    background: linear-gradient(90deg, #ffb300 0%, #ff6f00 100%);
+    background: linear-gradient(90deg, #e31e24 0%, #b71c1c 100%);
     color: #fff;
     border-radius: 8px;
     font-weight: 600;
@@ -41,23 +43,23 @@ button,
 }
 button:hover,
 .btn:hover {
-    background: linear-gradient(90deg, #ff6f00 0%, #ffb300 100%);
+    background: linear-gradient(90deg, #b71c1c 0%, #e31e24 100%);
 }
 
 input,
 textarea,
 select {
-    background: #18344a;
-    color: #fff;
+    background: #fff;
+    color: #e31e24;
     border-radius: 6px;
-    border: 1px solid #2c4a6b;
+    border: 1px solid #e31e24;
     padding: 0.5rem 1rem;
 }
 
 .card,
 .bg-card {
-    background: #18344a;
-    color: #f5f7fa;
+    background: #fff;
+    color: #e31e24;
     border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(13, 34, 53, 0.08);
+    box-shadow: 0 2px 8px rgba(227, 30, 36, 0.08);
 }

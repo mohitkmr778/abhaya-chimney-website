@@ -57,15 +57,20 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
                     <div>
                         <h3 className="text-[#ffb300] font-semibold mb-2 border-b border-[#ffb300] inline-block">
-                            Our Cities
+                            Address
                         </h3>
                         <ul className="mt-2 space-y-1">
-                            <li>Noida</li>
-                            <li>Greater Noida</li>
-                            <li>Indirapuram</li>
-                            <li>Vaishali</li>
-                            <li>Vasundhara</li>
-                            <li>Sector 62</li>
+                            <li>
+                                Site-c, Sri Sai Enclave, Plot no.A-1, near
+                                Paramount Golf Foreste, UPSIDC Site C, Surajpur,
+                                Greater Noida, Uttar Pradesh 201311
+                            </li>
+                            <li>
+                                <b className="text-[#ffb300] font-bold">
+                                    Phone:
+                                </b>{" "}
+                                93104 15762
+                            </li>
                         </ul>
                     </div>
                     <div>
@@ -102,7 +107,7 @@ export default function Footer() {
                                     href="#"
                                     className="hover:underline text-[#ffe082]"
                                 >
-                                    Careers
+                                    Return & Refund Policy
                                 </a>
                             </li>
                             <li>
@@ -110,7 +115,7 @@ export default function Footer() {
                                     href="#"
                                     className="hover:underline text-[#ffe082]"
                                 >
-                                    Blog
+                                    Terms & Conditions
                                 </a>
                             </li>
                         </ul>
@@ -120,45 +125,30 @@ export default function Footer() {
                             Our Services
                         </h3>
                         <ul className="mt-2 space-y-1">
-                            <li>Air-Conditioner</li>
-                            <li>CCTV Camera</li>
-                            <li>LED LCD TV</li>
-                            <li>Refrigerator</li>
-                            <li>Washing-Machine</li>
+                            <li>Chimney Repair Service</li>
+                            <li>RO Water Purifier Repair Service</li>
+                            <li>Hob Gas Repair Service</li>
+                            <li>Microwave Repair Service</li>
+                            <li>Oven Repair Service</li>
+                            <li>Dishwasher Repair Service</li>
                         </ul>
                     </div>
                     <div>
                         <h3 className="text-[#ffb300] font-semibold mb-2 border-b border-[#ffb300] inline-block">
-                            Book Your Service Now
+                            Our Location
                         </h3>
-                        <form className="flex flex-col gap-2 mt-2">
-                            <input
-                                type="text"
-                                placeholder="Enter Name"
-                                className="bg-[#0d2235] text-white px-3 py-2 rounded outline-none border border-[#2c4a6b]"
-                            />
-                            <input
-                                type="text"
-                                placeholder="Enter Number +91"
-                                className="bg-[#0d2235] text-white px-3 py-2 rounded outline-none border border-[#2c4a6b]"
-                            />
-                            <input
-                                type="text"
-                                placeholder="Your Product"
-                                className="bg-[#0d2235] text-white px-3 py-2 rounded outline-none border border-[#2c4a6b]"
-                            />
-                            <input
-                                type="text"
-                                placeholder="Enter address"
-                                className="bg-[#0d2235] text-white px-3 py-2 rounded outline-none border border-[#2c4a6b]"
-                            />
-                            <button
-                                type="submit"
-                                className="bg-gradient-to-r from-[#ffb300] to-[#ff6f00] text-white font-bold py-2 rounded hover:from-[#ff6f00] hover:to-[#ffb300] transition"
-                            >
-                                SUBMIT
-                            </button>
-                        </form>
+                        <div className="mt-2 rounded-xl overflow-hidden shadow-lg">
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14014.01399354413!2d77.326004!3d28.567201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce43e0b0b0b0b%3A0x0!2sNoida%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1695470000000!5m2!1sen!2sin"
+                                width="100%"
+                                height="180"
+                                style={{ border: 0 }}
+                                allowFullScreen=""
+                                loading="lazy"
+                                referrerPolicy="no-referrer-when-downgrade"
+                                title="Google Map"
+                            ></iframe>
+                        </div>
                     </div>
                 </div>
                 <div className="border-t border-[#2c4a6b] pt-4 text-center text-sm">
