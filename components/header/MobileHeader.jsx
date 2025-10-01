@@ -4,6 +4,17 @@ import { useState } from "react";
 
 export default function MobileHeader() {
     const [open, setOpen] = useState(false);
+    const [servicesOpen, setServicesOpen] = useState(false);
+
+    const services = [
+        { name: "Chimney Repair Service", path: "/chimney-repair-service" },
+        { name: "Dishwasher Repair Service", path: "/dishwasher-repair-service" },
+        { name: "Hob Gas Repair Service", path: "/hob-gas-repair-service" },
+        { name: "Microwave Repair Service", path: "/mircowave-repair-service" },
+        { name: "Oven Repair Service", path: "/oven-repair-service" },
+        { name: "RO Water Purifier Repair Service", path: "/ro-water-purifier-repair-service" }
+    ];
+
     return (
         <header className="bg-[#23589c] fixed top-0 left-0 w-full z-50 shadow-md md:hidden">
             <div className="flex items-center justify-between px-4 py-3">
@@ -72,13 +83,40 @@ export default function MobileHeader() {
                         </Link>
                     </li>
                     <li>
-                        <Link
-                            href="/service"
-                            className="block py-2 !text-white font-semibold"
-                            onClick={() => setOpen(false)}
-                        >
-                            Services
-                        </Link>
+                        <div>
+                            <button
+                                className="flex items-center justify-between w-full py-2 !text-white font-semibold text-left"
+                                onClick={() => setServicesOpen(!servicesOpen)}
+                            >
+                                Services
+                                <svg 
+                                    className={`h-4 w-4 transition-transform duration-200 ${servicesOpen ? 'rotate-180' : ''}`}
+                                    fill="none" 
+                                    stroke="currentColor" 
+                                    viewBox="0 0 24 24"
+                                >
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                                </svg>
+                            </button>
+                            <div className={`overflow-hidden transition-all duration-300 ${servicesOpen ? 'max-h-[300px]' : 'max-h-0'}`}>
+                                <ul className="pl-4 mt-1">
+                                    {services.map((service) => (
+                                        <li key={service.path}>
+                                            <Link
+                                                href={service.path}
+                                                className="block py-2 text-white text-sm hover:text-blue-200 transition-colors duration-200"
+                                                onClick={() => {
+                                                    setServicesOpen(false);
+                                                    setOpen(false);
+                                                }}
+                                            >
+                                                {service.name}
+                                            </Link>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
+                        </div>
                     </li>
                     <li>
                         <Link
