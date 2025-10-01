@@ -25,10 +25,10 @@ export default function ROWaterPurifierRepairServicePage() {
                         </div>
                         <div className="md:w-1/2 w-full">
                             <h4 className="text-[#0099b7] font-semibold uppercase mb-2 tracking-wide text-sm">
-                                About Quality
+                                Water Purifier
                             </h4>
                             <h2 className="text-3xl font-bold mb-4 text-[#0d5c6b]">
-                                Modern Service Standard
+                              Best RO Water Purifier Repair & Service at Your Doorstep
                             </h2>
                           
                             <p className="text-[#222] mb-2 text-base">
@@ -60,7 +60,7 @@ export default function ROWaterPurifierRepairServicePage() {
                                 Service Excellence
                             </h4>
                             <h2 className="text-3xl font-bold mb-4 text-[#0d5c6b]">
-                                Expert Refrigerator Repair
+                               Trusted RO Purifier Installation, Cleaning & Maintenance
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
                                We clean and replace filters, check TDS levels, sanitise storage
@@ -74,12 +74,7 @@ export default function ROWaterPurifierRepairServicePage() {
                             option for RO water purifier installation, maintenance, and repair.
                             </p>
                             <ul className="mt-4 space-y-2">
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Quick Diagnosis & Repair
-                                </li>
+                               
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
                                     <span className="mr-2 text-[#0099b7] text-lg">
                                         &#10003;
