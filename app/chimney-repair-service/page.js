@@ -87,25 +87,25 @@ chimney repair service today and enjoy a cleaner, healthier cooking environment.
                                     <span className="mr-2 text-[#0099b7] text-lg">
                                         &#10003;
                                     </span>{" "}
-                                    Quick Diagnosis & Repair
+                                 Deep cleaning and oil mesh filter cleaning
                                 </li>
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
                                     <span className="mr-2 text-[#0099b7] text-lg">
                                         &#10003;
                                     </span>{" "}
-                                    Genuine Spare Parts
+                                   Motor and PCB repair or replacement
                                 </li>
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
                                     <span className="mr-2 text-[#0099b7] text-lg">
                                         &#10003;
                                     </span>{" "}
-                                    Warranty on Service
+                                   Chimney suction power testing and improvement
                                 </li>
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
                                     <span className="mr-2 text-[#0099b7] text-lg">
                                         &#10003;
                                     </span>{" "}
-                                    24x7 Customer Support
+                                   Noise reduction and light replacement
                                 </li>
                             </ul>
                         </div>
