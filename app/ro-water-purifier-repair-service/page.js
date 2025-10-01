@@ -10,21 +10,7 @@ export default function ROWaterPurifierRepairServicePage() {
                 subtitle="Get reliable refrigerator repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
                 image="/slider/noida.jpg"
             />
-            <main className="bg-[#f6fbfd] py-10">
-                <div className="max-w-[1200px] mx-auto px-4">
-                    <h2 className="text-2xl font-bold mb-4 text-[#0d5c6b]">
-                        RO Water Purifier Repair Service
-                    </h2>
-                    <p className="text-[#222] mb-2 text-base">
-                        Get reliable refrigerator repair services in Noida with
-                        24x7 support. Expert technicians for all brands, fast
-                        and affordable repairs. Now.
-                    </p>
-                    <div className="mt-4 mb-12">
-                        <span className="font-semibold text-[#ffb300]">
-                            ₹ 249
-                        </span>
-                    </div>
+           
                     {/* Alternating sections start */}
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16">
                         <div className="md:w-1/2 w-full">
@@ -44,47 +30,18 @@ export default function ROWaterPurifierRepairServicePage() {
                             <h2 className="text-3xl font-bold mb-4 text-[#0d5c6b]">
                                 Modern Service Standard
                             </h2>
+                          
                             <p className="text-[#222] mb-2 text-base">
-                                Which don’t look even slightly believable. If
-                                you are going to use a passage of Lorem Ipsum,
-                                you need to be sure
+                               For the greatest RO water purifier installation, maintenance, and repair services, Abhaya Services 
+                            is your go-to source, guaranteeing your family's access to clean and safe drinking water. We offer 
+                            dependable and reasonably priced services for all of the top brands of RO water purifiers because to
+                            our staff of skilled experts and customer-first philosophy.
+                           Problems including water leaks, strange noises, poor or no water flow, unpleasant tastes or odors, and
+                            broken filters or pumps are all addressed by our RO repair services. To restore your purifier's 
+                            functionality and guarantee a steady supply of clean drinking water, we employ authentic replacement
+                                parts and cutting-edge equipment.
                             </p>
-                            <p className="text-[#222] mb-2 text-base">
-                                Which don’t look even slightly believable. If
-                                you are going to use a passage of Lorem Ipsum,
-                                you need to be sure there isn’t anything
-                                embarrassing hidden in the middle of text. All
-                                the Lorem Ipsum generators on the Internet tend
-                                to repeat predefined. It uses a dictionary of
-                                over 200 Latin words, combined with a handful of
-                                model sentence ernet tend to repeat presure.
-                            </p>
-                            <ul className="mt-4 space-y-2">
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Start Roofing Construction Planning
-                                </li>
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Quality Construction
-                                </li>
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Work With Architecture Style
-                                </li>
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Roof Construction Consult With Expert
-                                </li>
-                            </ul>
+                           
                         </div>
                     </section>
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16 md:flex-row-reverse">
@@ -106,12 +63,15 @@ export default function ROWaterPurifierRepairServicePage() {
                                 Expert Refrigerator Repair
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                Our certified technicians provide fast and
-                                reliable refrigerator repair for all brands.
-                            </p>
-                            <p className="text-[#222] mb-2 text-base">
-                                We use genuine parts and offer transparent
-                                pricing for every service call.
+                               We clean and replace filters, check TDS levels, sanitise storage
+                            tanks, and inspect pipelines as part of our routine servicing and maintenance programs to avoid contamination.
+                            Maintaining your RO system on a regular basis not only increases its purifying effectiveness but also prolongs 
+                            its longevity, preventing future expensive replacements.
+                          Our expert RO installation services are available to clients installing a new purifier. Proper fitting,
+                        leak-proof connections, and secure electrical setup are guaranteed by our professionals. We also help you 
+                        choose the best model for your needs depending on factors like family size, water quality, and usage.
+                        Our combination of genuine parts, technical know-how, and upfront pricing makes Abhaya Services the go-to 
+                            option for RO water purifier installation, maintenance, and repair.
                             </p>
                             <ul className="mt-4 space-y-2">
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
