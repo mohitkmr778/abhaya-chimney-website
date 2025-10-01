@@ -22,7 +22,7 @@ export default function MobileHeader() {
                     <Link href="/">
                         <img
                             src="/abhaya-logo.png"
-                            alt="Gen1service Logo"
+                            alt="Abhaya Logo"
                             className="h-[36px] w-auto"
                         />
                     </Link>
