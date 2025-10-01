@@ -10,7 +10,8 @@ export default function ROWaterPurifierRepairServicePage() {
                 subtitle="Expert RO Water Purifier Repair Service for all brands. Quick doorstep support, genuine parts, affordable pricing, and skilled technicians to ensure clean, safe drinking water. Book your service today!"
                 image="/slider/noida.jpg"
             />
-           
+           <main className="bg-[#f6fbfd] py-10">
+                <div className="max-w-[1200px] mx-auto px-4">
                     {/* Alternating sections start */}
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16">
                         <div className="md:w-1/2 w-full">
