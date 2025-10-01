@@ -7,7 +7,7 @@ export default function ROWaterPurifierRepairServicePage() {
         <>
             <PageBanner
                 title="RO Water Purifier Repair Service"
-                subtitle="Get reliable refrigerator repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
+                subtitle=Expert RO Water Purifier Repair Service for all brands. Quick doorstep support, genuine parts, affordable pricing, and skilled technicians to ensure clean, safe drinking water. Book your service today!"
                 image="/slider/noida.jpg"
             />
            
