@@ -15,27 +15,14 @@ export default function ChimneyRepairServicePage() {
     return (
         <>
             <PageBanner
-                title="Chimney Repair Service"
+                title="Expert Chimney Repair & Maintenance Services"
                 subtitle="Get reliable Air Conditioner repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
                 image="/slider/noida.jpg"
             />
             <main className="bg-[#f6fbfd] py-10">
                 <div className="max-w-[1200px] mx-auto px-4">
                    
-                    {/* Service intro section */}
-                    <h2 className="text-2xl font-bold mb-4 text-[#0d5c6b]">
-                        Chimney Repair Service
-                    </h2>
-                    <p className="text-[#222] mb-2 text-base">
-                        Get reliable Air Conditioner repair services in Noida
-                        with 24x7 support. Expert technicians for all brands,
-                        fast and affordable repairs. Now.
-                    </p>
-                    <div className="mt-4 mb-12">
-                        <span className="font-semibold text-[#ffb300]">
-                            ₹ 249
-                        </span>
-                    </div>
+               
                     {/* Alternating sections start */}
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16">
                         <div className="md:w-1/2 w-full">
@@ -50,49 +37,28 @@ export default function ChimneyRepairServicePage() {
                                 About Quality
                             </h4>
                             <h2 className="text-3xl font-bold mb-4 text-[#0d5c6b]">
-                                Modern Service Standard
+                              Expert Chimney Repair & Maintenance Services
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                Which don’t look even slightly believable. If
-                                you are going to use a passage of Lorem Ipsum,
-                                you need to be sure
+
+                          Your kitchen will remain safe, smoke-free, and clean with Abhaya Chimney Service as your go-to partner for the best
+                            chimney installation, maintenance, and repair services. We provide dependable services for all kinds and brands of 
+                            chimneys at reasonable costs thanks to our years of experience and staff of knowledgeable experts.
+                            A variety of problems are covered by our chimney repair service, such as motor failures, decreased suction,
+                            strange noises, clogged filters, damaged ducts, and electrical malfunctions To provide you piece of mind 
+                                and prolong the life of your chimney, we exclusively utilize authentic
+                            replacement parts and up-to-date equipment.
                             </p>
                             <p className="text-[#222] mb-2 text-base">
-                                Which don’t look even slightly believable. If
-                                you are going to use a passage of Lorem Ipsum,
-                                you need to be sure there isn’t anything
-                                embarrassing hidden in the middle of text. All
-                                the Lorem Ipsum generators on the Internet tend
-                                to repeat predefined. It uses a dictionary of
-                                over 200 Latin words, combined with a handful of
-                                model sentence ernet tend to repeat presure.
+                             Your kitchen will remain safe, smoke-free, and clean with 
+    Abhaya Chimney Service as your go-to partner for the best chimney installation, maintenance, and repair services.
+    We provide dependable services for all kinds and brands of chimneys at reasonable costs thanks to our years of experience
+    and staff of knowledgeable experts.
+A variety of problems are covered by our chimney repair service, such as motor failures, decreased suction, strange noises,
+clogged filters, damaged ducts, and electrical malfunctions. To provide you piece of mind and prolong the life of your chimney,
+        we exclusively utilize authentic replacement parts and up-to-date equipment.
                             </p>
-                            <ul className="mt-4 space-y-2">
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Start Roofing Construction Planning
-                                </li>
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Quality Construction
-                                </li>
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Work With Architecture Style
-                                </li>
-                                <li className="flex items-center text-[#0d5c6b] font-medium">
-                                    <span className="mr-2 text-[#0099b7] text-lg">
-                                        &#10003;
-                                    </span>{" "}
-                                    Roof Construction Consult With Expert
-                                </li>
-                            </ul>
+                           
                         </div>
                     </section>
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16 md:flex-row-reverse">
