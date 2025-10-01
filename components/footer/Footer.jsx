@@ -67,9 +67,15 @@ export default function Footer() {
                             </li>
                             <li>
                                 <b className="text-[#ffb300] font-bold">
+                                    Email:
+                                </b>{" "}
+                                <span className="text-sm">abhayachimneyservices@gmail.com</span>
+                            </li>
+                            <li>
+                                <b className="text-[#ffb300] font-bold">
                                     Phone:
                                 </b>{" "}
-                                93104 15762
+                                9310415762
                             </li>
                         </ul>
                     </div>
