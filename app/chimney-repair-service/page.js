@@ -40,14 +40,13 @@ export default function ChimneyRepairServicePage() {
                               Expert Chimney Repair & Maintenance Services
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-
-                          Your kitchen will remain safe, smoke-free, and clean with Abhaya Chimney Service as your go-to partner for the best
-                            chimney installation, maintenance, and repair services. We provide dependable services for all kinds and brands of 
-                            chimneys at reasonable costs thanks to our years of experience and staff of knowledgeable experts.
-                            A variety of problems are covered by our chimney repair service, such as motor failures, decreased suction,
-                            strange noises, clogged filters, damaged ducts, and electrical malfunctions To provide you piece of mind 
-                                and prolong the life of your chimney, we exclusively utilize authentic
-                            replacement parts and up-to-date equipment.
+                                   A kitchen chimney plays a vital role in keeping your kitchen clean, smoke-free, and fresh. Over time, chimneys 
+                                    may face problems like reduced suction power, unusual noise, oil blockages, or motor issues. If your chimney 
+                                        is not working efficiently, it’s time to call the best chimney repair service near you.
+                               We provide professional chimney repair, cleaning, and maintenance services for all major brands and models.
+                                            Our trained technicians use advanced tools to diagnose problems quickly and offer long-lasting 
+                                            solutions at affordable prices. Whether it’s a wall-mounted, island, or built-in chimney, we handle
+                                                every type with care and expertise.
                             </p>
                             <p className="text-[#222] mb-2 text-base">
                              Your kitchen will remain safe, smoke-free, and clean with 
@@ -74,15 +73,14 @@ clogged filters, damaged ducts, and electrical malfunctions. To provide you piec
                                 Service Excellence
                             </h4>
                             <h2 className="text-3xl font-bold mb-4 text-[#0d5c6b]">
-                                Expert Refrigerator Repair
+                               Reliable Chimney Cleaning & Repair Solutions
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                Our certified technicians provide fast and
-                                reliable refrigerator repair for all brands.
-                            </p>
-                            <p className="text-[#222] mb-2 text-base">
-                                We use genuine parts and offer transparent
-                                pricing for every service call.
+                               Regular chimney maintenance not only improves performance but also extends its lifespan and keeps
+                                    your kitchen hygienic. Don’t ignore minor issues like smoke leakage or weak suction — they can
+                                        lead to bigger problems later.
+chimney repair service today and enjoy a cleaner, healthier cooking environment. Call us now or 
+    schedule an appointment online for quick support. We ensure your chimney works like new again!
                             </p>
                             <ul className="mt-4 space-y-2">
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
