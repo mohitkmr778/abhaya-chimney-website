@@ -16,7 +16,7 @@ export default function ChimneyRepairServicePage() {
         <>
             <PageBanner
                 title="Expert Chimney Repair & Maintenance Services"
-                subtitle="Get reliable Air Conditioner repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
+                subtitle=" Expert chimney repair service offering fast, reliable solutions for cleaning, maintenance, and installation. Ensure safe, efficient kitchen ventilation today!"
                 image="/slider/noida.jpg"
             />
             <main className="bg-[#f6fbfd] py-10">
