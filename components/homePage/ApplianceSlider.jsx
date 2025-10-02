@@ -24,7 +24,7 @@ const slides = [
     },
     {
         image: "/slider/chimney-slider-three.jpg",
-        title: "New Noida",
+        title: "Expert Chimney Repair Service for Safe, Efficient Kitchens",
         subtitle: "Trusted Repair Solutions for Your Appliances",
     },
 ];
