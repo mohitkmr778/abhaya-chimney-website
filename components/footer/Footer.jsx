@@ -154,9 +154,6 @@ export default function Footer() {
                                 referrerPolicy="no-referrer-when-downgrade"
                                 title="Google Map"
                             ></iframe>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d112181.44473613572!2d77.45079978858993!3d28.519570241731564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x390cebaff6eacec7%3A0x71ae2007ab869b76!2ssite-c%2C%20Sri%20Sai%20Enclave%2C%20Plot%20no.A-1%2C%20near%20Paramount%20Golf%20Foreste%2C%20UPSIDC%20Site%20C%2C%20Surajpur%2C%20Greater%20Noida%2C%20Uttar%20Pradesh%20201311!3m2!1d28.5195951!2d77.5332012!5e0!3m2!1sen!2sin!4v1759381023093!5m2!1sen!2sin"
-                                width="100%" height="180" style="border:0;" allowfullscreen="" 
-                                loading="lazy" referrerpolicy="no-referrer-when-downgrade"  title="Google Map"></iframe>
                         </div>
                     </div>
                 </div>
