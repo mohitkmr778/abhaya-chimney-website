@@ -13,7 +13,7 @@ const services = [
         title: "RO Water Purifier Repair Service",
         description:
             "For the greatest RO water purifier installation, maintenance, and repair services, Abhaya Services is your go-to source.\u00A0Now.",
-        img: "/slider/noida.jpg",
+        img: "/slider/water-purifierone.jpg",
         link: "/ro-water-purifier-repair-service",
     },
     {
