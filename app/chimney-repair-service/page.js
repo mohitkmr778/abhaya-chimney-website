@@ -27,7 +27,7 @@ export default function ChimneyRepairServicePage() {
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16">
                         <div className="md:w-1/2 w-full">
                             <img
-                                src="/slider/noida.jpg"
+                                src="/slider/chimney-section-one.jpg"
                                 alt="Modern Service Standard"
                                 className="rounded-xl w-full h-[320px] object-cover shadow-lg"
                             />
@@ -40,22 +40,22 @@ export default function ChimneyRepairServicePage() {
                               Expert Chimney Repair & Maintenance Services
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                ${`A kitchen chimney plays a vital role in keeping your kitchen clean, smoke-free, and fresh. Over time, chimneys 
+                                A kitchen chimney plays a vital role in keeping your kitchen clean, smoke-free, and fresh. Over time, chimneys 
                                 may face problems like reduced suction power, unusual noise, oil blockages, or motor issues. If your chimney 
                                 is not working efficiently, it’s time to call the best chimney repair service near you.
                                 We provide professional chimney repair, cleaning, and maintenance services for all major brands and models.
                                 Our trained technicians use advanced tools to diagnose problems quickly and offer long-lasting 
                                 solutions at affordable prices. Whether it’s a wall-mounted, island, or built-in chimney, we handle
-                                every type with care and expertise.`}
+                                every type with care and expertise.
                             </p>
                             <p className="text-[#222] mb-2 text-base">
-                                ${`Your kitchen will remain safe, smoke-free, and clean with 
+                                Your kitchen will remain safe, smoke-free, and clean with 
                                 Abhaya Chimney Service as your go-to partner for the best chimney installation, maintenance, and repair services.
                                 We provide dependable services for all kinds and brands of chimneys at reasonable costs thanks to our years of experience
                                 and staff of knowledgeable experts.
                                 A variety of problems are covered by our chimney repair service, such as motor failures, decreased suction, strange noises,
                                 clogged filters, damaged ducts, and electrical malfunctions. To provide you piece of mind and prolong the life of your chimney,
-                                we exclusively utilize authentic replacement parts and up-to-date equipment.`}
+                                we exclusively utilize authentic replacement parts and up-to-date equipment.
                             </p>
                            
                         </div>
@@ -63,8 +63,8 @@ export default function ChimneyRepairServicePage() {
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16 md:flex-row-reverse">
                         <div className="md:w-1/2 w-full">
                             <img
-                                src="/slider/noida.jpg"
-                                alt="Expert Refrigerator Repair"
+                                src="/slider/chimney-section-two.jpg"
+                                alt="Expert Chimney Repair"
                                 className="rounded-xl w-full h-[320px] object-cover shadow-lg"
                             />
                         </div>
@@ -76,11 +76,11 @@ export default function ChimneyRepairServicePage() {
                                Reliable Chimney Cleaning & Repair Solutions
                             </h2>
                             <p className="text-[#222] mb-2 text-base">
-                                ${`Regular chimney maintenance not only improves performance but also extends its lifespan and keeps
+                                Regular chimney maintenance not only improves performance but also extends its lifespan and keeps
                                 your kitchen hygienic. Don’t ignore minor issues like smoke leakage or weak suction — they can
                                 lead to bigger problems later.
                                 chimney repair service today and enjoy a cleaner, healthier cooking environment. Call us now or 
-                                schedule an appointment online for quick support. We ensure your chimney works like new again!`}
+                                schedule an appointment online for quick support. We ensure your chimney works like new again!`
                             </p>
                             <ul className="mt-4 space-y-2">
                                 <li className="flex items-center text-[#0d5c6b] font-medium">
