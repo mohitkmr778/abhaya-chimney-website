@@ -19,9 +19,9 @@ const services = [
     {
         title: "Hob Gas Repair Service",
         description:
-            "Get reliable LED/LCD/TV repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
+            "Get reliable Hob/Cooktop stove repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
       
-        img: "/slider/noida.jpg",
+        img: "/slider/gasone.jpg",
         link: "/hob-gas-repair-service",
     },
     {
