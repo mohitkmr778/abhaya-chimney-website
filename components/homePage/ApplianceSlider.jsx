@@ -60,9 +60,7 @@ export default function ApplianceSlider() {
                                 <h2 className="text-[#ffb300] text-4xl md:text-6xl font-bold mb-4 drop-shadow">
                                     {slide.title}
                                 </h2>
-                                <button className="bg-gradient-to-r from-[#ffb300] to-[#ff6f00] text-white px-6 py-2 rounded-full font-semibold shadow hover:from-[#ff6f00] hover:to-[#ffb300] transition">
-                                    Service Book
-                                </button>
+                               
                             </div>
                         </div>
                     </SwiperSlide>
