@@ -6,29 +6,18 @@ export default function HobGasRepairServicePage() {
         <>
             <PageBanner
                 title="Hob Gas Repair Service"
-                subtitle="Get reliable LED/LCD/TV repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
-                image="/slider/noida.jpg"
+                subtitle="Get reliable Hob/Gas Stove repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs. Now."
+                image="/slider/gasone.jpg"
             />
             <main className="bg-[#f6fbfd] py-10">
                 <div className="max-w-[1200px] mx-auto px-4">
-                    <h2 className="text-2xl font-bold mb-4 text-[#0d5c6b]">
-                        Hob Gas Repair Service
-                    </h2>
-                    <p className="text-[#222] mb-2 text-base">
-                        Get reliable LED/LCD/TV repair services in Noida with
-                        24x7 support. Expert technicians for all brands, fast
-                        and affordable repairs. Now.
-                    </p>
-                    <div className="mt-4 mb-12">
-                        <span className="font-semibold text-[#ffb300]">
-                            ₹ 249
-                        </span>
-                    </div>
+                  
+                 
                     {/* Alternating sections start */}
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16">
                         <div className="md:w-1/2 w-full">
                             <img
-                                src="/slider/noida.jpg"
+                                src="/slider/gasone.jpg"
                                 alt="Modern Service Standard"
                                 className="rounded-xl w-full h-[320px] object-cover shadow-lg"
                             />
@@ -86,8 +75,8 @@ export default function HobGasRepairServicePage() {
                     <section className="flex flex-col md:flex-row items-center gap-8 mb-16 md:flex-row-reverse">
                         <div className="md:w-1/2 w-full">
                             <img
-                                src="/slider/noida.jpg"
-                                alt="Expert Refrigerator Repair"
+                                src="/slider/gastwo.jpg"
+                                alt="Expert Hob/Gas Stove Repair"
                                 className="rounded-xl w-full h-[320px] object-cover shadow-lg"
                             />
                         </div>
