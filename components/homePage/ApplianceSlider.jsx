@@ -12,18 +12,18 @@ import Image from "next/image";
 
 const slides = [
     {
-        image: "/slider/noida.jpg", // replace with your image
-        title: "Old Noida",
+        image: "/slider/chimney-slider-one.jpg", // replace with your image
+        title: "Expert Chimney Repair Service",
         subtitle:
-            "EXPERT APPLIANCE REPAIR IN NOIDA – AC, REFRIGERATOR, WASHING MACHINE & MORE",
+            "Fast, reliable chimney repair for smoke issues, cleaning, maintenance, and installation at affordable rates.",
     },
     {
-        image: "/slider/noida.jpg",
-        title: "Greater Noida",
-        subtitle: "Quick Service & Expert Technicians at Your Doorstep",
+        image: "/slider/chimney-slider-two.jpg",
+        title: "Trusted RO & Chimney Repair Service for Every Home",
+        subtitle: "Quick, reliable repairs ensuring clean water and smoke-free kitchens.",
     },
     {
-        image: "/slider/noida.jpg",
+        image: "/slider/chimney-slider-three.jpg",
         title: "New Noida",
         subtitle: "Trusted Repair Solutions for Your Appliances",
     },
