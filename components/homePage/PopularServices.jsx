@@ -5,16 +5,14 @@ const services = [
     {
         title: "Chimney Repair Service",
         description:
-            "Get reliable Air Conditioner repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
-        price: "₹ 249",
+            "A kitchen chimney plays a vital role in keeping your kitchen clean, smoke-free, and fresh. Over time, chimneys may face problems like .\u00A0Now.",
         img: "/slider/noida.jpg",
         link: "/chimney-repair-service",
     },
     {
         title: "RO Water Purifier Repair Service",
         description:
-            "Get reliable refrigerator repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
-        price: "₹ 249",
+            "For the greatest RO water purifier installation, maintenance, and repair services, Abhaya Services is your go-to source.\u00A0Now.",
         img: "/slider/noida.jpg",
         link: "/ro-water-purifier-repair-service",
     },
@@ -22,7 +20,7 @@ const services = [
         title: "Hob Gas Repair Service",
         description:
             "Get reliable LED/LCD/TV repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
-        price: "₹ 249",
+      
         img: "/slider/noida.jpg",
         link: "/hob-gas-repair-service",
     },
@@ -30,7 +28,7 @@ const services = [
         title: "Mircowave Repair Service",
         description:
             "Get reliable Washing Machine repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
-        price: "₹ 249",
+    
         img: "/slider/noida.jpg",
         link: "/mircowave-repair-service",
     },
@@ -38,7 +36,7 @@ const services = [
         title: "Oven Repair Service",
         description:
             "Get reliable Microwave Oven repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
-        price: "₹ 249",
+      
         img: "/slider/noida.jpg",
         link: "/oven-repair-service",
     },
@@ -46,7 +44,7 @@ const services = [
         title: "Dishwasher Repair Service",
         description:
             "Get reliable Kitchen-Chimney repair services in Noida with 24x7 support. Expert technicians for all brands, fast and affordable repairs.\u00A0Now.",
-        price: "₹ 249",
+      
         img: "/slider/noida.jpg",
         link: "/dishwasher-repair-service",
     },
