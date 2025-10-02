@@ -6,7 +6,7 @@ const services = [
         title: "Chimney Repair Service",
         description:
             "A kitchen chimney plays a vital role in keeping your kitchen clean, smoke-free, and fresh. Over time, chimneys may face problems like .\u00A0Now.",
-        img: "/slider/noida.jpg",
+        img: "/slider/chimney-section-one.jpg",
         link: "/chimney-repair-service",
     },
     {
