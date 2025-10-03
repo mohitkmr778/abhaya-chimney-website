@@ -15,7 +15,7 @@ export default function Header() {
     ];
 
     return (
-        <header className="bg-[#23589c] fixed top-0 left-0 w-full z-50 shadow-md">
+        <header className="bg-[#23589c]">
             <div className="max-w-[1200px] mx-auto flex items-center px-4 py-3">
                 <div className="mr-6">
                     <Link href="/">
