@@ -102,7 +102,7 @@ export default function Footer() {
                             </li>
                             <li>
                                 <a
-                                    href="#"
+                                    href="/privacy-policy"
                                     className="hover:underline text-[#ffe082]"
                                 >
                                     Privacy policy
@@ -110,7 +110,7 @@ export default function Footer() {
                             </li>
                             <li>
                                 <a
-                                    href="#"
+                                    href="/return-refund-policy"
                                     className="hover:underline text-[#ffe082]"
                                 >
                                     Return & Refund Policy
@@ -118,7 +118,7 @@ export default function Footer() {
                             </li>
                             <li>
                                 <a
-                                    href="#"
+                                    href="/terms-and-conditions"
                                     className="hover:underline text-[#ffe082]"
                                 >
                                     Terms & Conditions
