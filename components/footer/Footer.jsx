@@ -145,7 +145,7 @@ export default function Footer() {
                         </h3>
                         <div className="mt-2 rounded-xl overflow-hidden shadow-lg">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14014.01399354413!2d77.326004!3d28.567201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce43e0b0b0b0b%3A0x0!2sNoida%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1695470000000!5m2!1sen!2sin"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.669321514375!2d77.5332012!3d28.5195951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cebaff6eacec7%3A0x71ae2007ab869b76!2sAbhaya%20Chimney%20Service!5e0!3m2!1sen!2sin!4v1759483765560!5m2!1sen!2sin"
                                 width="100%"
                                 height="180"
                                 style={{ border: 0 }}
@@ -173,3 +173,5 @@ export default function Footer() {
         </footer>
     );
 }
+
+
