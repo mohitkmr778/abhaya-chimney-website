@@ -7,15 +7,7 @@ export default function PrivacyPolicy() {
                 <h1 className="text-black text-2xl md:text-3xl font-bold text-center mb-4">
                   Privacy Policy
                 </h1>
-                <div className="flex justify-center mb-4">
-                    <button className="border rounded px-3 py-1 flex items-center gap-2 text-sm font-semibold">
-                        <span role="img" aria-label="flag">
-                            🇮🇳
-                        </span>{" "}
-                        IND <span className="ml-1">▼</span>
-                    </button>
-                </div>
-                <h2 className="text-lg font-semibold mb-2">
+                <h2 className="text-black text-lg font-semibold mb-2">
                     Privacy Policy
                 </h2>
                 <p className="mb-4 text-sm text-gray-700">
