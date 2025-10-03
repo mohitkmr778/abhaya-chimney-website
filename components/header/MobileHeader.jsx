@@ -85,7 +85,7 @@ export default function MobileHeader() {
                     <li>
                         <div>
                             <button
-                                className="flex items-center justify-between w-full py-2 !text-white font-semibold text-left"
+                                className="flex items-center justify-between w-full px-2 py-2 !text-white font-semibold text-left"
                                 onClick={() => setServicesOpen(!servicesOpen)}
                             >
                                 Services
