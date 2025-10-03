@@ -4,7 +4,7 @@ export default function PrivacyPolicy() {
     return (
         <main className="bg-white min-h-screen py-10">
             <div className="max-w-2xl mx-auto px-4">
-                <h1 className="text-2xl md:text-3xl font-bold text-center mb-4">
+                <h1 className="text-black text-2xl md:text-3xl font-bold text-center mb-4">
                   Privacy Policy
                 </h1>
                 <div className="flex justify-center mb-4">
@@ -59,7 +59,7 @@ If you have any questions, concerns, or requests regarding your personal informa
             Service through the contact details provided on our website or customer support channels. By continuing to
                 use our services, you acknowledge that you have read and understood this Privacy Policy
                 </p>
-                <ol className="list-decimal pl-4 space-y-4">
+                <ol className="text-black list-decimal pl-4 space-y-4">
                     <li>
                         <span className="font-bold">SERVICES</span>
                         <ol className="list-alpha pl-4">
